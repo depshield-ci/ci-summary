@@ -1,5 +1,4 @@
 # summary
-summary of projects
 ---
 # testing for INT-841 to get us in the GH throttled state
 ---
